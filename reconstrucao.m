@@ -1,6 +1,6 @@
 
 funcao X = reconstrucao(W, Y, mu)
-    %%  Reonstruct Y from X using W, pass mu to adjust mean.
+    %%  Recupera Y de X usando W,  mu pode ajudar a ajustar a média.
     %%
     %%  Argumentos:
     %%    C [Número de componentes x Número de informações] projeção
